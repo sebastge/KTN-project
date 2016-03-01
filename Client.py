@@ -2,7 +2,7 @@
 import socket
 from MessageReceiver import MessageReceiver
 from MessageParser import MessageParser
-
+#This is a test comment
 class Client:
     """
     This is the chat client class
